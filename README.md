@@ -1,3 +1,5 @@
+![Fast-React-PIzza-Co-](https://github.com/INFINITYX00/pizza-menu/assets/145766101/0a06d0b2-3f87-4a08-865b-a5670b7d795c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
